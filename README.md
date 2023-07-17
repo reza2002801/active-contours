@@ -10,13 +10,10 @@
 
 ## <a name="introduction"></a>Introduction
 <p align="center">
-<img src="res11.jpg" width="400"><br>
+<img src="res11.jpg" width="600"><br>
 <br>
 this is the final result of active contour detection
-<br>
-<video controls autoplay>
-  <source src="contour.mp4" type="video/mp4">
- </video>
+
 </p>
 
 This project implements active contours, which are energy-based models used for object detection. Active contours aim to capture objects by maximizing the gradient and the distance of each point, along with the second-order derivatives at each step. The provided code performs active contour detection on an input image.
