@@ -11,6 +11,7 @@
 ## <a name="introduction"></a>Introduction
 <p align="center">
 ![Alt Text](contour-ezgif.com-video-to-gif-converter.gif)
+
 <br>
 this is the final result of active contour detection
 
