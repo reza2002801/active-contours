@@ -10,7 +10,7 @@
 
 ## <a name="introduction"></a>Introduction
 <p align="center">
-<img src="res11.jpg" width="600"><br>
+![Alt Text](contour-ezgif.com-video-to-gif-converter.gif)
 <br>
 this is the final result of active contour detection
 
