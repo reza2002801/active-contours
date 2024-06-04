@@ -10,6 +10,7 @@
 
 ## <a name="introduction"></a>Introduction
 <p align="center">
+
 ![Alt Text](contour-ezgif.com-video-to-gif-converter.gif)
 
 <br>
